@@ -1,0 +1,18 @@
+export const COLORS = {
+  invms50: "#f8fafc",
+  invms100: "#f1f5f9",
+  invms200: "#e2e8f0",
+  invms300: "#cbd5e1",
+  primary: "#94a3b8",
+  invms500: "#64748b",
+  invms600: "#475569",
+  invms700: "#334155",
+  invms800: "#1e293b",
+  invms900: "#0f172a",
+  invms950: "#020617",
+  invmsred100: "#fee2e2",
+  invmsred400: "#f87171",
+  invmsred500: "#ef4444",
+  invmsred700: "#b91c1c",
+  invmsred900: "#7f1d1d",
+};

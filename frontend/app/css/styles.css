@@ -1,0 +1,9 @@
+.invms_submenu_of_left_pannel li a::before {
+    left: 0;
+    top: 13px;
+    width: 15px;
+    content: ' ';
+    position: absolute;
+    display: inline-block;
+    border: 0.75px solid #334155;
+  }
